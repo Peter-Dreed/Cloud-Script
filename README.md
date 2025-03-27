@@ -40,7 +40,7 @@ Run this script in PowerShell with appropriate permissions to access system logs
 ### 3. Optimization Script.ps1
 
 **Purpose:**  
-This script performs system optimization tasks such as clearing temporary files, restarting essential services, and updating the system to ensure optimal performance.
+This script performs system optimization tasks such as clearing temporary files, restarting essential services, and updating the system to ensure optimal performance.
 
 **Features:**
 - Deletes unnecessary temporary files to free up disk space.
