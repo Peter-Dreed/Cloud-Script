@@ -43,9 +43,9 @@ Run this script in PowerShell with appropriate permissions to access system logs
 This script performs system optimization tasks such as clearing temporary files, restarting essential services, and updating the system to ensure optimal performance.
 
 **Features:**
-- Deletes unnecessary temporary files to free up disk space.
-- Restarts specified services to refresh system operations.
-- Performs system updates to keep software current.
+- Deletes unnecessary temporary files to free up disk space.
+- Restarts specified services to refresh system operations.
+- Performs system updates to keep software current.
 
 **Usage:**  
 Execute this script in PowerShell with administrative privileges. It will carry out the optimization tasks and provide a summary of actions taken.
